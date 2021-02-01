@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "registry_of_bananas",
+  "mongoUri": "mongodb+srv://admin:111223@cluster0.wy8xm.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
